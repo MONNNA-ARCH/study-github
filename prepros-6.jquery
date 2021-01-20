@@ -1,0 +1,6 @@
+$( document).ready (function(){
+	//Hover effect for H1 ELEMENT
+	$ (:JUMBOTRON H1") . hover (function() {
+	This 
+	}
+}
